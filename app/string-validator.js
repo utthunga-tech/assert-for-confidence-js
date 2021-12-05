@@ -1,11 +1,7 @@
 
 function add(numbers){
 	
-	
-}
-function main() {
-
-    return 0;
+	return 0;
 }
 
-main();
+module.exports=add;
